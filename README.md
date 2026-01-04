@@ -49,7 +49,7 @@ Projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin
 
 Repoyu klonlayın:
   
-  git clone https://github.com/kullaniciadi/eczane-otomasyonu.git
+  git clone https://github.com/efdalgzbyk/eczane-otomasyonu.git
   cd eczane-otomasyonu
 
 Gerekli kütüphaneleri yükleyin:
