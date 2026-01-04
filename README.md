@@ -50,7 +50,8 @@ EczaneOtomasyonu/
 │   └── patient_panel.py    # Hasta Paneli
 
 └── database/           # Veritabanı dosyası (ilk çalıştırmada oluşur)
-    └── eczane.db
+
+   └── eczane.db
 
 ### ⚙️ Kurulum
 Projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
