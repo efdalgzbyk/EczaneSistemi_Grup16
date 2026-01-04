@@ -33,14 +33,22 @@
 
 ### 📂 Proje Yapısı
 EczaneOtomasyonu/
-├── database.py         # Veritabanı bağlantısı ve CRUD işlemleri  \n
+├── database.py         # Veritabanı bağlantısı ve CRUD işlemleri  
+
 ├── main.py             # Uygulamanın giriş noktası (Controller)
+
 ├── utils.py            # PDF oluşturma ve yardımcı araçlar
+
 ├── ui/                 # Kullanıcı Arayüzü Dosyaları
+
 │   ├── login_panel.py      # Giriş Ekranı
+
 │   ├── doctor_panel.py     # Doktor Paneli
+
 │   ├── pharmacist_panel.py # Eczacı Paneli
+
 │   └── patient_panel.py    # Hasta Paneli
+
 └── database/           # Veritabanı dosyası (ilk çalıştırmada oluşur)
     └── eczane.db
 
