@@ -48,15 +48,17 @@ EczaneOtomasyonu/
 Projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
 
 Repoyu klonlayın:
-  
+ ```bash 
   git clone https://github.com/efdalgzbyk/eczane-otomasyonu.git
   cd eczane-otomasyonu
+```
 
 Gerekli kütüphaneleri yükleyin:
-
+```bash
   pip install ttkbootstrap fpdf
+```
 
 Uygulamayı başlatın:
-
+```bash
   python main.py
-  
+```
