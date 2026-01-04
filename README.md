@@ -33,7 +33,7 @@
 
 ### 📂 Proje Yapısı
 EczaneOtomasyonu/
-├── database.py         # Veritabanı bağlantısı ve CRUD işlemleri
+├── database.py         # Veritabanı bağlantısı ve CRUD işlemleri  \n
 ├── main.py             # Uygulamanın giriş noktası (Controller)
 ├── utils.py            # PDF oluşturma ve yardımcı araçlar
 ├── ui/                 # Kullanıcı Arayüzü Dosyaları
